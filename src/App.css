@@ -1,0 +1,15 @@
+.card{
+  margin-left: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+ 
+  width: 500px;
+}
+p{
+  font-size: large;
+  color: blueviolet;
+}
+span{
+  color: black;
+}
